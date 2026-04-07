@@ -1,4 +1,5 @@
 📊 Análise Financeira de Performance – E-commerce
+
 📌 Contexto
 
 Em operações de e-commerce, entender a rentabilidade vai muito além do volume de vendas.
